@@ -1,0 +1,6 @@
+200  0 K -> request screen full
+201 create -> Resouce created 
+400 Bad request -> client sent 
+                   wrong request
+404 Not Found -> Data no found 
+500 internal server -> problem with server 
